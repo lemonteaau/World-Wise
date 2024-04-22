@@ -1,6 +1,8 @@
 # WorldWise
 
 WorldWise is a single page application that allows users to record and keep track of the cities they have traveled to. It provides a user-friendly interface for adding, viewing, and managing travel memories.
+
+
 ![alt text](image-1.png)
 
 ![alt text](image.png)
