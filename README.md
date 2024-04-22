@@ -2,7 +2,9 @@
 
 WorldWise is a single page application that allows users to record and keep track of the cities they have traveled to. It provides a user-friendly interface for adding, viewing, and managing travel memories.
 ![alt text](image-1.png)
+
 ![alt text](image.png)
+
 
 ## Features
 
@@ -12,6 +14,7 @@ WorldWise is a single page application that allows users to record and keep trac
 - Add travel memories: Fill out a form to add a new city entry, including the city name, travel date, and notes about your trip.
 - Geolocation: Use your current position to set the map location.
 - Country list: View a list of all the countries you have visited.
+
 
 ## Technologies Used
 
@@ -23,6 +26,7 @@ WorldWise is a single page application that allows users to record and keep trac
 - Context API: A React API for managing global state and sharing data across components.
 - Fetch API: A modern JavaScript API for making HTTP requests.
 - json-server: A tool for quickly setting up a fake REST API from a JSON file.
+
 
 ## Getting Started
 
@@ -55,10 +59,12 @@ npm run dev
 
 5. Open the app in your browser at `http://localhost:5173`.
 
-## Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+## Acknowledgements
+
+- This project is based on a project from JONAS SCHMEDTMANN's "The Ultimate React Course". The course provided the foundation and guidance for building this app.
+
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/lemonteaau/World-Wise/blob/main/LICENSE).
