@@ -28,38 +28,30 @@ WorldWise is a single page application that allows users to record and keep trac
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/lemonteaau/World-Wise.git
-   ```
+```
+git clone https://github.com/lemonteaau/World-Wise.git
+```
 
 2. Install the dependencies:
 
-   ```
-   cd World-Wise
-   npm install
-   ```
+```
+cd World-Wise
+npm install
+```
 
 3. Start the json-server:
 
-   ```
-   npm run server
-   ```
+```
+npm run server
+```
 
-This will start the json-server and watch the data/cities.json file for changes. The server will run on http://localhost:8000. The json-server provides a fake REST API based on the data in the data/cities.json file. It allows you to perform CRUD (Create, Read, Update, Delete) operations on the cities data without requiring a real backend server. The available API endpoints are:
-
-    GET /cities: Retrieve all cities.
-    GET /cities/:id: Retrieve a specific city by ID.
-    POST /cities: Create a new city.
-    PUT /cities/:id: Update a city by ID.
-    DELETE /cities/:id: Delete a city by ID.
-
-You can access these endpoints from your React application to fetch and manipulate the cities data.
+This will start the json-server and watch the data/cities.json file for changes. The server will run on http://localhost:8000. The json-server provides a fake REST API based on the data in the data/cities.json file.
 
 4. Start the development server:
 
-   ```
-   npm run dev
-   ```
+```
+npm run dev
+```
 
 5. Open the app in your browser at `http://localhost:5173`.
 
