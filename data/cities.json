@@ -13,18 +13,6 @@
       "id": 1
     },
     {
-      "cityName": "Taipei",
-      "countryName": "Taiwan (Province of China)",
-      "emoji": "🇹🇼",
-      "date": "2024-04-22T13:22:11.364Z",
-      "notes": "",
-      "position": {
-        "lat": "24.964378642253486",
-        "lng": "121.54985911803817"
-      },
-      "id": 2
-    },
-    {
       "cityName": "Adelaide",
       "countryName": "Australia",
       "emoji": "🇦🇺",
@@ -35,6 +23,30 @@
         "lng": "138.60260101051136"
       },
       "id": 3
+    },
+    {
+      "cityName": "Kyoto",
+      "countryName": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-04-22T13:31:53.479Z",
+      "notes": "",
+      "position": {
+        "lat": "34.967734356540646",
+        "lng": "135.7408950467436"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Toulouse",
+      "countryName": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-22T13:32:21.795Z",
+      "notes": "",
+      "position": {
+        "lat": "43.60353544497163",
+        "lng": "1.4442105283077344"
+      },
+      "id": 5
     }
   ]
 }
