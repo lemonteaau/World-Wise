@@ -83,6 +83,42 @@
         "lng": "139.20665121755223"
       },
       "id": 98443201
+    },
+    {
+      "cityName": "Fisher",
+      "countryName": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-04-22T13:08:46.294Z",
+      "notes": "",
+      "position": {
+        "lat": "-34.551997594112756",
+        "lng": "139.52510992257703"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Copeville",
+      "countryName": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-04-22T13:08:46.294Z",
+      "notes": "",
+      "position": {
+        "lat": "-34.76446654307395",
+        "lng": "140.0361251097475"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Moulamein",
+      "countryName": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-04-22T13:10:06.178Z",
+      "notes": "",
+      "position": {
+        "lat": "-34.93112901009234",
+        "lng": "144.18946091871942"
+      },
+      "id": 98443204
     }
   ]
 }
