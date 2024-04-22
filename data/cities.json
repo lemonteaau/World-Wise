@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "countryName": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-04-22T13:03:25.016Z",
+      "notes": "",
+      "position": {
+        "lat": "-34.773571732129874",
+        "lng": "139.13547259753446"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Mannum",
+      "countryName": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-04-22T13:04:24.427Z",
+      "notes": "",
+      "position": {
+        "lat": "-34.904200376865525",
+        "lng": "139.25604482322453"
+      },
+      "id": 98443199
     }
   ]
 }
