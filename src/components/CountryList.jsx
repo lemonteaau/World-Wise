@@ -21,7 +21,7 @@ function CountryList({ cities, isLoading }) {
     ) {
       return [
         ...countriesArr,
-        { country: currCity.country, emoji: currCity.emoji },
+        { country: currCity.country, emoji: currCity.emoji, id: currCity.id },
       ];
     } else return countriesArr;
   }, []);
@@ -29,7 +29,7 @@ function CountryList({ cities, isLoading }) {
   return (
     <ul className={styles.countryList}>
       {countries.map((country) => (
-        <CountryItem country={country} key={country.id} />
+        <CountryItem key={country.id} country={country} />
       ))}
     </ul>
   );

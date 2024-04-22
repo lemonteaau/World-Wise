@@ -50,7 +50,10 @@ function App() {
             element={<CityList cities={cities} isLoading={isLoading} />}
           />
           <Route path="cities/:id" element={<City />} />
-          <Route path="countries" element={<CountryList cities={cities} />} />
+          <Route
+            path="countries"
+            element={<CountryList cities={cities} isLoading={isLoading} />}
+          />
           <Route path="form" element={<p>Form</p>} />
         </Route>
         <Route path="*" element={<PageNotFound />} />
