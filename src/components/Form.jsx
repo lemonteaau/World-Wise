@@ -32,7 +32,7 @@ function Form() {
   // state variables to implement the reactiveness to the click on map opening the form with the cities details.
   const [lat, lng] = useUrlPosition();
   const [isLoadingGeocoding, setIsLoadingGeocoding] = useState(false);
-  const [countryName, setCountryName] = useState("");
+  const [country, setCountry] = useState("");
   const [emoji, setEmoji] = useState("");
   const [geocodingError, setGeocodingError] = useState("");
 
@@ -57,7 +57,7 @@ function Form() {
             );
 
           setCityName(data.city || data.locality || "");
-          setCountryName(data.countryName);
+          setCountry(data.countryName);
           setEmoji(convertToEmoji(data.countryCode));
         } catch (err) {
           setGeocodingError(err.message);
@@ -78,7 +78,7 @@ function Form() {
     }
     const newCity = {
       cityName,
-      countryName,
+      country,
       emoji,
       date,
       notes,
