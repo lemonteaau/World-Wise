@@ -5,11 +5,12 @@ WorldWise is a single page application that allows users to record and keep trac
 
 ![alt text](image-1.png)
 
-![alt text](image.png)
+<img width="1388" alt="image" src="https://github.com/lemonteaau/World-Wise/assets/104964583/910dcaee-acf6-4b21-a45d-2a2953375603">
 
 
 ## Features
 
+- Fake Authentication: A simulated login process to demonstrate user authentication flow.
 - Interactive map: Click on any location on the map to add a new city entry.
 - City list: View a list of all the cities you have traveled to.
 - City details: Click on a city from the list to view more details about your trip.
@@ -29,6 +30,12 @@ WorldWise is a single page application that allows users to record and keep trac
 - Fetch API: A modern JavaScript API for making HTTP requests.
 - json-server: A tool for quickly setting up a fake REST API from a JSON file.
 
+
+## Fake Authentication
+WorldWise includes a simulated authentication process to demonstrate how user login and authorization can be implemented in a React application.
+Please note that this authentication implementation is for demonstration purposes only and should not be used in a production environment. In a real-world application, you would need to replace this with a proper authentication system.
+
+<img width="1387" alt="image" src="https://github.com/lemonteaau/World-Wise/assets/104964583/065473fe-8c8e-4463-8c95-9519df0d2ce5">
 
 ## Getting Started
 
