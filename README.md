@@ -48,7 +48,7 @@ This will start the json-server and watch the data/cities.json file for changes.
 npm run dev
 ```
 
-5. Open the app in your browser at `http://localhost:5173`.
+5. Open the app in your browser at http://localhost:5173.
 
 
 ## Technologies Used
