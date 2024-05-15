@@ -35,6 +35,54 @@
         "lng": "135.73358169204457"
       },
       "id": 3
+    },
+    {
+      "cityName": "Halbury",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-04-25T10:28:19.793Z",
+      "notes": "",
+      "position": {
+        "lat": "-34.166363384737885",
+        "lng": "138.50463867187503"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Suryabinayak",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2024-04-27T03:11:15.939Z",
+      "notes": "Sushed's home",
+      "position": {
+        "lat": "27.669238131736996",
+        "lng": "85.40723741054536"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Changde",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-04-27T03:13:08.234Z",
+      "notes": "",
+      "position": {
+        "lat": "29.063841069417993",
+        "lng": "111.72348976135255"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Taipei",
+      "country": "Taiwan (Province of China)",
+      "emoji": "🇹🇼",
+      "date": "2024-04-27T03:13:26.830Z",
+      "notes": "",
+      "position": {
+        "lat": "25.027128418957865",
+        "lng": "121.54861450195314"
+      },
+      "id": 8
     }
   ]
 }
